@@ -3,6 +3,6 @@
 
 ### Backend: Node.js, DB: MongoDB
 
-### Frontend: Vanilla JS, Template: EJS 
+### Frontend: Vanilla JS, Template: EJS, FrameWork: Bootstrap (v5.2)
 
 #### still in development.. update later
